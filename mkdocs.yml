@@ -99,3 +99,5 @@ nav:
   - 下载: ./dl.md
   - 建筑物:
     - 总览: ./Buildings/all.md
+  - 备忘录:
+    - 备忘录（一）: ./Memorandums/1.md
